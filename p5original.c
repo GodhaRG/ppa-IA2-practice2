@@ -26,6 +26,6 @@ int main()
   a=input();
   b=input();
   gcd=find_gcd(a,b);
-  output(a,b,gcd);
+  output(a,b, gcd);
   return 0;
 }
