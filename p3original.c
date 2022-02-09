@@ -39,7 +39,7 @@ int main()
   int n,composite;
   n=input_number();
   composite=is_composite(n);
-  output(n,composite);
+  output(n, composite);
   return 0;
 }
 
